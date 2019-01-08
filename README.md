@@ -2,11 +2,14 @@
 在试题库里寻找剪贴板中的内容，并返回对应的选项和答案。/Look for the contents of the clipboard in the test bank and return the corresponding options and answers.
 
 你好！欢迎来到Python3的世界！我也是和你一样遇到了题库和试题选项对不上的情况，所以就搞了一个这个小脚本来偷懒~
+
 不可以用她来做坏事哦！
+
 ========================
+
 准备步骤：
 1 此软件来的匆忙，所以运行环境依赖于Python3的IDLE，如果你有py3就跳过。
-	##没有的话点击文件夹里的【python-3.7.2-amd64-webinstall】自动安装。选install now 并点上那个add python as Path的勾。
+	##没有的话点击文件夹里的【python-3.7.2-amd64-webinstall】自动安装。选install now 并点上那个add python as Path的勾。//这边需要你自己去装py3
 	###不过如果你没点勾也没关系，参考这个帖子自己贴上PATH就好
 	https://www.cnblogs.com/qiyeshublog/archive/2012/01/24/2329162.html 做第一步即可。
 2 需要安两个库：
